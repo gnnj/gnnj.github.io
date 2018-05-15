@@ -7,7 +7,8 @@ html {
 body {
   font-family: 'Source Sans Pro';
 }
-
+.text-color-white { color: #fff; text-shadow: 2px; }
+.text-bold { font-weight: bold; }
 .btn-xl {
   padding: 1.25rem 2.5rem;
 }
@@ -235,7 +236,6 @@ h6 {
   max-width: 530px;
   margin: auto auto 1rem;
 }
-
 .portfolio-item .caption {
   display: flex;
   height: 100%;
